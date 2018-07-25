@@ -23,9 +23,6 @@ export default ({ data }) => {
           </Link>
         </div>
       ))}
-      <div>
-        <img src="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/5/12/1399892260489/161df2d3-73b0-482b-84fd-1d7741200fe5-460x276.jpeg?w=620&q=55&auto=format&usm=12&fit=max&s=fc54a2616b3b2c00c5cca177fae10af3" alt="AFX" />
-      </div>
     </div>
   );
 };
